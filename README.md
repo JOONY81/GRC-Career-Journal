@@ -1,28 +1,43 @@
-# GRC-Career-Journal
-A professional portfolio documenting my transition from IT development to GRC &amp; cybersecurity compliance in the U.S. market.
+# GRC Career Journal
 
-This repository is a structured portfolio of my transition into the U.S. Governance, Risk, and Compliance (GRC) field.
+Welcome to the GRC Career Journal. This repository documents my journey, experience, and skill-building efforts toward becoming a cybersecurity risk & compliance professional in the U.S. financial sector.
 
-## 🎯 Objective
-To demonstrate my experience and knowledge across IT audit, cybersecurity compliance, risk management, and regulatory frameworks relevant to the U.S. financial sector.
+## 🧭 Overview
+This portfolio showcases:
+- Regulatory compliance project experience (FFIEC, NYDFS, SWIFT, SLA, etc.)
+- My resume, cover letters, and LinkedIn profile copy
+- Case studies and internal audit contributions
+- Professional certifications like CDCS and CertPAY
 
-## 📚 Sections
+---
 
-- **Internal Audit Case Studies**
-- **FFIEC/NIST Mapping Exercises**
-- **Policy Drafting (AUP, Access Control, Incident Response)**
-- **SOX & ITGC Control Samples**
-- **GRC Course Summaries (e.g., ISACA, Coursera)**
-- **My Commentary on Real-world Regulations (GLBA, GDPR, etc.)**
+## 📂 Directory Structure
+```
+GRC-Career-Journal/
+├── README.md
+├── Resume/
+│   └── [YourName]_Resume_US.pdf
+├── CoverLetters/
+│   └── JP_Morgan_CoverLetter.md
+├── CaseStudies/
+│   ├── SWIFT_Migration_Project.md
+│   ├── FFIEC_Audit_Experience.md
+│   └── SLA_Audit_Improvement.md
+├── Certifications/
+│   └── CDCS_Overview.md
+├── LinkedIn_Profile_About.md
+└── Assets/
+    └── [diagrams, screenshots]
+```
 
-## 🧠 Background
-- 15+ years in financial IT and core banking development
-- CISO-level experience at a U.S. financial institution
-- Now pursuing a GRC analyst/manager role in the U.S.
+---
 
-## 📌 Focused Frameworks
-- NIST CSF
-- FFIEC IT Examination Handbook
-- COBIT
-- ISO/IEC 27001
+## 📌 Highlights
+- 🔐 FFIEC Cybersecurity Audit Coordination – Hands-on response documentation and planning
+- 🌐 Core Banking SWIFT System Consolidation – Pre-/Post-merger execution
+- 🧾 SLA Contract Revision After IT Audit – Gap finding → action plan
 
+---
+
+## 📬 Contact
+This portfolio is open for collaboration and review. Feel free to explore or fork!
